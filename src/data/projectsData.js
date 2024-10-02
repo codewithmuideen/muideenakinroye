@@ -21,7 +21,7 @@ const ProjectsData = [
     live: "https://muideenakinroye.vercel.app/",
     source: "https://github.com/codewithmuideen/",
     description:
-      "SPA (Single Page Application) to rent a van for a road trip with 10+ routes. I have built it with ReactJS, React Router 6, miragejs and CSS for styling. It has a responsive design and navigation.",
+      "I developed a Single Page Application (SPA) for renting a van for road trips with 10+ routes, using ReactJS, React Router 6, and CSS for styling. The application features a responsive design and seamless navigation, ensuring an optimal user experience across devices.",
   },
   {
     id: "fyp",
@@ -31,7 +31,7 @@ const ProjectsData = [
     live: "https://muideenakinroye.vercel.app/",
     source: "https://github.com/codewithmuideen/",
     description:
-      "A cross-platform app that connects local service providers with customers. As a full stack developer, I contributed to the development of the app using Flutter, Node.js, Express.js, Next.js and MongoDB. I also worked on the design of the app using Figma. The mobile app is currently in the testing phase and will be launched soon. Web app's frontend is also completed.",
+      "A cross-platform web application that connects local service providers with customers. As a full-stack developer, I contributed to the development of the app using Node.js, Express.js, Next.js, and MongoDB. I also designed the user interface using Figma. The mobile app is currently in the testing phase, and the web app's frontend is fully completed and ready for launch.",
   },
   {
     id: "rest-countries",
