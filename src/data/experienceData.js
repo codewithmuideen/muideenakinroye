@@ -5,7 +5,7 @@ const expData = [
       org: "Aptech Nigeria",
       title: "Senior Frontend Developer",
       date: "Mar 2024 - Present",
-      description:  " design wireframes and develop frontend pages from concept to completion. I combine creativity with deep technical expertise to deliver exceptional user experiences. My responsibilities span from initial ideation and brainstorming to the final refinement of the user interface. I work closely with cross-functional teams to ensure seamless collaboration and flawless project execution, driving the frontend development process to meet both user needs and business objectives."
+      description:  "I design wireframes and develop frontend pages from concept to completion. I combine creativity with deep technical expertise to deliver exceptional user experiences. My responsibilities span from initial ideation and brainstorming to the final refinement of the user interface. I work closely with cross-functional teams to ensure seamless collaboration and flawless project execution, driving the frontend development process to meet both user needs and business objectives."
     },
     {
         id: "2",
@@ -20,7 +20,7 @@ const expData = [
         title: "R&D Programmer",
         date: "Jan 2023 - Feb 2024",
         description:  
-            "I was responsible for the programming of data to be entered on the system built with Microsoft ASP.NET framework. I conducted thorough research and analysis to identify areas for innovation and improvement. Collaborated effectively with cross functional teams to drive the enhancement of the system and user experience.",
+            "I was responsible for programming and managing data entry within a JavaScript-based system. Conducted comprehensive research and analysis to identify areas for innovation and improvement. Collaborated closely with cross-functional teams to enhance system functionality and improve the overall user experience.",
       },   
     {
         id: "4",
